@@ -1,6 +1,7 @@
 {
-"name": "Rama DeFi Bangkok",
-"description": "Cardano DeFi Traders Pool Bangkok",
-"ticker": "RDB",
-"homepage": "https://thc-room335.com"
+    "name": "Rama DeFi Bangkok",
+    "description": "Cardano DeFi Traders Pool Bangkok",
+    "ticker": "RDB",
+    "homepage": "https://thc-room335.com",
+    "extended": ""
 }
